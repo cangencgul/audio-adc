@@ -27,7 +27,8 @@ void main(void) {
         }
         RA0 = 1;
         RA1 = 0;
-        __delay_us(1);
+        RB0 = 0;
+        __delay_us(2);
     }
     return;
 }
