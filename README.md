@@ -1,4 +1,4 @@
-# microphone-adc
+# audio-adc
 
 ![image](https://user-images.githubusercontent.com/63459021/124375929-3b766580-dcad-11eb-8905-1990608a9dbb.png)
 
